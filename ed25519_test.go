@@ -15,8 +15,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/diagprov/golang-ed25519"
-	"github.com/diagprov/golang-ed25519/edwards25519"
+	"github.com/teserakt-io/golang-ed25519"
+	"github.com/teserakt-io/golang-ed25519/edwards25519"
 )
 
 type zeroReader struct{}

@@ -1,4 +1,4 @@
-module github.com/diagprov/golang-ed25519
+module github.com/teserakt-io/golang-ed25519
 
 go 1.13
 
